@@ -1,6 +1,3 @@
- # practice
+## pySUMMA
 
-aaa
-bbb
-ccc
-ddd
+A python Wrapper for SUMMA models
